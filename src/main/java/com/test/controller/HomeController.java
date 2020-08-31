@@ -16,6 +16,7 @@ public class HomeController
     public String home(Model model)
 
     {    model.addAttribute("data",customerDao.save());
+     model.addAttribute("data1","my name is suarav kumar");
         return "home";
     }
 
