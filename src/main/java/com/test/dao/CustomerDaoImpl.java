@@ -18,8 +18,15 @@ public class CustomerDaoImpl implements CustomerDao
         customer.setName("saurav");
         customer.setAdd("patna");
         customer.setMob(827115544);
+        
+        Customer customer1= new Customer();
 
-        al.add(customer);
+        customer1.setId(1);
+        customer1.setName("kumar");
+        customer1.setAdd("Ranchi");
+        customer1.setMob(878978529);
+
+        al.add(customer1);
 
         return al;
     }
