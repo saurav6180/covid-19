@@ -95,7 +95,7 @@
 
            <tr>
                <td>
-                   <input type='password' name='password' placeholder="Password" id="password"/>
+                   <input type='password' name='password' placeholder="Password" id="pwd"/>
                </td>
            </tr>
 
