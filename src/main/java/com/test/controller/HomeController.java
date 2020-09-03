@@ -20,5 +20,12 @@ public class HomeController
       
         return "home";
     }
+    @RequestMapping("/header")
+    public String hheader(Model model)
+
+    {
+        return "homePage_Header";
+    }
+
 
 }
