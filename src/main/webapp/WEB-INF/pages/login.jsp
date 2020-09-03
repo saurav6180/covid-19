@@ -87,7 +87,7 @@
        <tr>
 
                <td>
-                   <input type='text' name='email' value='' placeholder="Email" id="email">
+                   <input type='text' name='email' value='' placeholder="Email" id="username">
                </td>
            </tr>
        <br>
