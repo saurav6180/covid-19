@@ -89,7 +89,7 @@
             <c:otherwise>
                 <a class="ui item" href="">
                     <i class="sign out alternate icon"></i>
-                    sign out
+                    logout
                 </a>
             </c:otherwise>
         </c:choose>
