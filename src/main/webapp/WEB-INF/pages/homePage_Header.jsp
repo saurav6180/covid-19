@@ -67,7 +67,7 @@
             preventive measure
         </a>
         <a class="item" href="#">
-            corona meter
+            corona-19
         </a>
         <a class="item" href="#">
             buy vaccine
