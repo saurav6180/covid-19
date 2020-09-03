@@ -73,7 +73,7 @@
             buy vaccine
         </a>
         <a class="item" href="#">
-            FAQ
+            Frequently asked questions
         </a>
         <c:choose>
             <c:when test="${pageContext.request.userPrincipal.name == null}">
