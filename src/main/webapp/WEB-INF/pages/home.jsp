@@ -23,10 +23,14 @@
 </head>
 <body>
 
+${msg}
+
+
 <br>
 <br>
 <br>
 <center><h1>${data}</h1></center>
+
 
 
 </body>

@@ -15,9 +15,13 @@ public class HomeController
     @RequestMapping("/home")
     public String home(Model model)
 
+    {
+        model.addAttribute("msg","hpractice");
+
+
     {    model.addAttribute("data",customerDao.save());
      model.addAttribute("data1","my name is suarav kumar");
-      
+ 
         return "home";
     }
 
